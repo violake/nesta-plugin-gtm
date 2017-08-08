@@ -1,7 +1,7 @@
 README
 ======
 
-TODO: Add Google Tag Manager to nesta pages
+Add Google Tag Manager to nesta pages
 
 Installation
 ------------
