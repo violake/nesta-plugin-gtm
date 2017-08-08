@@ -1,7 +1,7 @@
 README
 ======
 
-TODO: Explain what your plugin is for
+TODO: Add Google Tag Manager to nesta pages
 
 Installation
 ------------
