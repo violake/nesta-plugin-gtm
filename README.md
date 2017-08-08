@@ -17,5 +17,19 @@ then install it with Bundler:
 
 ```
 
+insert partial code to ./views/layout.haml:
+
+```
+= haml :gtmheader, :layout => false
+= haml :gtmbody, :layout => false
+```
+at proper lines like:
+
+    = haml :analytics, :layout => false
+    = haml :gtmheader, :layout => false
+  %body
+    = haml :gtmbody, :layout => false
+    #container
+
 
     
